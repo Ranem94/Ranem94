@@ -1,23 +1,23 @@
-# Hi, I'm Ranem Alhaj 👋
+ Hi, I'm Ranem Alhaj 👋
 
-### 📱 YH Mobilapplikationsutvecklare @ Folkuniversitetet Göteborg
+ 📱 YH Mobilapplikationsutvecklare @ Folkuniversitetet Göteborg
 
 > Studerande inom mobilapplikationsutveckling med fokus på Android. Nästa termin: iOS!
 
-### 🚀 Vad jag bygger med just nu:
-- **Språk:** Kotlin, Java
-- **Android:** Jetpack Compose, MVVM, API-integration
-- **Verktyg:** Git, GitHub, Scrum, Android Studio
-- **Nästa steg:** iOS & Swift (VT 2027)
+ 🚀 Vad jag bygger med just nu:
+- Språk: Kotlin, Java
+- Android: Jetpack Compose, MVVM, API-integration
+- Verktyg:Git, GitHub, IntelliJ, Android Studio
+- Nästa steg: iOS & Swift (VT 2027)
 
-### 🌱 Mina projekt:
-- 📚 **Kassaboken** - App för bokföring | Kotlin & Jetpack Compose
-- 🔍 **Escape Room - Fallet Film** - Interaktiv app | Kotlin
+ 🌱 Mina projekt:
+- 📚 Kassaboken - App för bankkonto | Java | IntelliJ
+- 🔍 Filmlistan - Interaktiv App | Kotlin | Android Studio
 
-### 🎯 Söker LIA 2027
+🎯 Söker LIA 2027
 Jag söker LIA-plats i **Göteborg / Uddevalla** där jag kan växa i ett riktigt utvecklingsteam!
 
-### 📫 Hitta mig:
+ 📫 Hitta mig:
 - 💼 LinkedIn: [linkedin.com/in/ranem-alhaj-098a0122a](https://www.linkedin.com/in/ranem-alhaj-098a0122a/)
 - 📍 Uddevalla, Sverige
 - 🎓 Folkuniversitetet - YH Inc
